@@ -29,7 +29,7 @@ This project requires the following libraries:
 
 ### Hardware Setup
 Ahh I am too tired to draw. See photo for the LCD version. Serial version is virtually the same but without the LCD:
-![My Image](img/wiring.jpg)
+![My Image](img/Wiring.jpg)
 
 ## Code Structure
 There are two code files, each works independently.
